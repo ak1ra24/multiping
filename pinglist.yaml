@@ -1,0 +1,9 @@
+addresses:
+    - address: 1.1.1.1
+      hostname: cloudflare DNS
+    - address: 8.8.8.8
+      hostname: Google DNS
+    - address: 8.8.4.4
+      hostname: Google DNS
+    - address: 10.10.10.10
+      hostname: Unknown
